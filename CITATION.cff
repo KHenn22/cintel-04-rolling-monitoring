@@ -19,9 +19,13 @@ authors:
     given-names: Denise M.
     orcid: "https://orcid.org/0000-0001-6165-7389"
     affiliation: "Northwest Missouri State University, USA"
+  - family-names: Hennelly
+    given-names: Kevin J.
+    affiliation: "Northwest Missouri State University, USA"
 
-repository-code: "https://github.com/denisecase/cintel-04-rolling-monitoring"
-url: "https://github.com/denisecase/cintel-04-rolling-monitoring"
+
+repository-code: "https://github.com/KHenn22/cintel-04-rolling-monitoring"
+url: "https://github.com/KHenn22/cintel-04-rolling-monitoring"
 license: MIT
 
 abstract: |
