@@ -128,3 +128,23 @@ git push -u origin main
 
 - Use the **UP ARROW** and **DOWN ARROW** in the terminal to scroll through past commands.
 - Use `CTRL+f` to find (and replace) text within a file.
+
+### Technical Modification
+Rolling Standard Deviation and Anomaly Spike Detection
+
+I Added rolling standard deviation calculations and anomaly spike flags to the monitoring pipeline.
+
+What was added:
+  ∙	Rolling standard deviation for requests, errors, and latency (same window size [3] as the rolling mean)
+  ∙	Boolean spike flags for errors and latency — a spike is flagged when a value exceeds the rolling mean +2 standard deviations
+  ∙	Log output reporting the count of detected spikes
+
+Reason:
+While rolling means alone show trends, they cannot detect outliers. Adding standard deviation creates a dynamic threshold that adapts to the data, making it possible to automatically flag unusual system behavior without the need to hardcode a fixed limit.
+
+Output columns added:
+  ∙	requests_rolling_std
+  ∙	errors_rolling_std
+  ∙	latency_rolling_std
+  ∙	error_spike_flag
+  ∙	latency_spike_flag
