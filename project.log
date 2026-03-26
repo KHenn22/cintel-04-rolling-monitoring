@@ -94,3 +94,324 @@
 2026-03-23 20:37:23 | INFO | P5 | Pipeline executed successfully!
 2026-03-23 20:37:23 | INFO | P5 | ========================
 2026-03-23 20:37:23 | INFO | P5 | END main()
+2026-03-25 20:19:37 | INFO | P5 | === RUN START ===
+2026-03-25 20:19:37 | INFO | P5 | project=CINTEL
+2026-03-25 20:19:37 | INFO | P5 | repo_dir=cintel-04-rolling-monitoring
+2026-03-25 20:19:37 | INFO | P5 | python=3.14.3
+2026-03-25 20:19:37 | INFO | P5 | os=Windows 11
+2026-03-25 20:19:37 | INFO | P5 | shell=powershell
+2026-03-25 20:19:37 | INFO | P5 | cwd=.
+2026-03-25 20:19:37 | INFO | P5 | github_actions=False
+2026-03-25 20:19:37 | INFO | P5 | ========================
+2026-03-25 20:19:37 | INFO | P5 | START main()
+2026-03-25 20:19:37 | INFO | P5 | ========================
+2026-03-25 20:19:37 | INFO | P5 | ROOT_DIR = .
+2026-03-25 20:19:37 | INFO | P5 | DATA_FILE = data\T_ONTIME_REPORTING_OCT_2025.csv
+2026-03-25 20:19:37 | INFO | P5 | OUTPUT_FILE = artifacts\airline_delay_rolling_metrics_hennelly.csv
+2026-03-25 20:19:37 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-03-25 20:19:37 | INFO | P5 | Loaded 605844 flight records
+2026-03-25 20:19:37 | INFO | P5 | Aggregated into 31 daily records
+2026-03-25 20:23:58 | INFO | P5 | === RUN START ===
+2026-03-25 20:23:58 | INFO | P5 | project=CINTEL
+2026-03-25 20:23:58 | INFO | P5 | repo_dir=cintel-04-rolling-monitoring
+2026-03-25 20:23:58 | INFO | P5 | python=3.14.3
+2026-03-25 20:23:58 | INFO | P5 | os=Windows 11
+2026-03-25 20:23:58 | INFO | P5 | shell=powershell
+2026-03-25 20:23:58 | INFO | P5 | cwd=.
+2026-03-25 20:23:58 | INFO | P5 | github_actions=False
+2026-03-25 20:23:58 | INFO | P5 | ========================
+2026-03-25 20:23:58 | INFO | P5 | START main()
+2026-03-25 20:23:58 | INFO | P5 | ========================
+2026-03-25 20:23:58 | INFO | P5 | ROOT_DIR = .
+2026-03-25 20:23:58 | INFO | P5 | DATA_FILE = data\T_ONTIME_REPORTING_OCT_2025.csv
+2026-03-25 20:23:58 | INFO | P5 | OUTPUT_FILE = artifacts\airline_delay_rolling_metrics_hennelly.csv
+2026-03-25 20:23:58 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-03-25 20:23:58 | INFO | P5 | Loaded 605844 flight records
+2026-03-25 20:23:58 | INFO | P5 | Aggregated into 31 daily records
+2026-03-25 20:26:08 | INFO | P5 | === RUN START ===
+2026-03-25 20:26:08 | INFO | P5 | project=CINTEL
+2026-03-25 20:26:08 | INFO | P5 | repo_dir=cintel-04-rolling-monitoring
+2026-03-25 20:26:08 | INFO | P5 | python=3.14.3
+2026-03-25 20:26:08 | INFO | P5 | os=Windows 11
+2026-03-25 20:26:08 | INFO | P5 | shell=powershell
+2026-03-25 20:26:08 | INFO | P5 | cwd=.
+2026-03-25 20:26:08 | INFO | P5 | github_actions=False
+2026-03-25 20:26:08 | INFO | P5 | ========================
+2026-03-25 20:26:08 | INFO | P5 | START main()
+2026-03-25 20:26:08 | INFO | P5 | ========================
+2026-03-25 20:26:08 | INFO | P5 | ROOT_DIR = .
+2026-03-25 20:26:08 | INFO | P5 | DATA_FILE = data\T_ONTIME_REPORTING_OCT_2025.csv
+2026-03-25 20:26:08 | INFO | P5 | OUTPUT_FILE = artifacts\airline_delay_rolling_metrics_hennelly.csv
+2026-03-25 20:26:08 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-03-25 20:26:08 | INFO | P5 | Loaded 605844 flight records
+2026-03-25 20:26:08 | INFO | P5 | Aggregated into 31 daily records
+2026-03-25 20:26:08 | INFO | P5 | Computed rolling mean signals
+2026-03-25 20:26:08 | INFO | P5 | Flagged 0 cancellation spikes
+2026-03-25 20:26:08 | INFO | P5 | Flagged 0 delay spikes
+2026-03-25 20:26:08 | INFO | P5 | Wrote rolling monitoring file: C:\Repos\cintel-04-rolling-monitoring\artifacts\airline_delay_rolling_metrics_hennelly.csv
+2026-03-25 20:26:08 | INFO | P5 | ========================
+2026-03-25 20:26:08 | INFO | P5 | Pipeline executed successfully!
+2026-03-25 20:26:08 | INFO | P5 | ========================
+2026-03-25 20:26:08 | INFO | P5 | END main()
+2026-03-25 20:30:43 | INFO | P5 | === RUN START ===
+2026-03-25 20:30:43 | INFO | P5 | project=CINTEL
+2026-03-25 20:30:43 | INFO | P5 | repo_dir=cintel-04-rolling-monitoring
+2026-03-25 20:30:43 | INFO | P5 | python=3.14.3
+2026-03-25 20:30:43 | INFO | P5 | os=Windows 11
+2026-03-25 20:30:43 | INFO | P5 | shell=powershell
+2026-03-25 20:30:43 | INFO | P5 | cwd=.
+2026-03-25 20:30:43 | INFO | P5 | github_actions=False
+2026-03-25 20:30:43 | INFO | P5 | ========================
+2026-03-25 20:30:43 | INFO | P5 | START main()
+2026-03-25 20:30:43 | INFO | P5 | ========================
+2026-03-25 20:30:43 | INFO | P5 | ROOT_DIR = .
+2026-03-25 20:30:43 | INFO | P5 | DATA_FILE = data\T_ONTIME_REPORTING_OCT_2025.csv
+2026-03-25 20:30:43 | INFO | P5 | OUTPUT_FILE = artifacts\airline_delay_rolling_metrics_hennelly.csv
+2026-03-25 20:30:43 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-03-25 20:30:43 | INFO | P5 | Loaded 605844 flight records
+2026-03-25 20:36:40 | INFO | P5 | === RUN START ===
+2026-03-25 20:36:40 | INFO | P5 | project=CINTEL
+2026-03-25 20:36:40 | INFO | P5 | repo_dir=cintel-04-rolling-monitoring
+2026-03-25 20:36:40 | INFO | P5 | python=3.14.3
+2026-03-25 20:36:40 | INFO | P5 | os=Windows 11
+2026-03-25 20:36:40 | INFO | P5 | shell=powershell
+2026-03-25 20:36:40 | INFO | P5 | cwd=.
+2026-03-25 20:36:40 | INFO | P5 | github_actions=False
+2026-03-25 20:36:40 | INFO | P5 | ========================
+2026-03-25 20:36:40 | INFO | P5 | START main()
+2026-03-25 20:36:40 | INFO | P5 | ========================
+2026-03-25 20:36:40 | INFO | P5 | ROOT_DIR = .
+2026-03-25 20:36:40 | INFO | P5 | DATA_FILE = data\T_ONTIME_REPORTING_OCT_2025.csv
+2026-03-25 20:36:40 | INFO | P5 | OUTPUT_FILE = artifacts\airline_delay_rolling_metrics_hennelly.csv
+2026-03-25 20:36:40 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-03-25 20:36:41 | INFO | P5 | Loaded 605844 flight records
+2026-03-25 20:36:41 | INFO | P5 | Aggregated into 434 daily records
+2026-03-25 20:36:41 | INFO | P5 | Computed rolling mean signals
+2026-03-25 20:36:41 | INFO | P5 | Flagged 0 cancellation spikes
+2026-03-25 20:36:41 | INFO | P5 | Flagged 0 delay spikes
+2026-03-25 20:36:41 | INFO | P5 | Wrote rolling monitoring file: C:\Repos\cintel-04-rolling-monitoring\artifacts\airline_delay_rolling_metrics_hennelly.csv
+2026-03-25 20:36:41 | INFO | P5 | ========================
+2026-03-25 20:36:41 | INFO | P5 | Pipeline executed successfully!
+2026-03-25 20:36:41 | INFO | P5 | ========================
+2026-03-25 20:36:41 | INFO | P5 | END main()
+2026-03-25 20:43:13 | INFO | P5 | === RUN START ===
+2026-03-25 20:43:13 | INFO | P5 | project=CINTEL
+2026-03-25 20:43:13 | INFO | P5 | repo_dir=cintel-04-rolling-monitoring
+2026-03-25 20:43:13 | INFO | P5 | python=3.14.3
+2026-03-25 20:43:13 | INFO | P5 | os=Windows 11
+2026-03-25 20:43:13 | INFO | P5 | shell=powershell
+2026-03-25 20:43:13 | INFO | P5 | cwd=.
+2026-03-25 20:43:13 | INFO | P5 | github_actions=False
+2026-03-25 20:43:13 | INFO | P5 | ========================
+2026-03-25 20:43:13 | INFO | P5 | START main()
+2026-03-25 20:43:13 | INFO | P5 | ========================
+2026-03-25 20:43:13 | INFO | P5 | ROOT_DIR = .
+2026-03-25 20:43:13 | INFO | P5 | DATA_FILE = data\T_ONTIME_REPORTING_OCT_2025.csv
+2026-03-25 20:43:13 | INFO | P5 | OUTPUT_FILE = artifacts\airline_delay_rolling_metrics_hennelly.csv
+2026-03-25 20:43:13 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-03-25 20:43:13 | INFO | P5 | Loaded 605844 flight records
+2026-03-25 20:43:13 | INFO | P5 | Aggregated into 434 daily records
+2026-03-25 20:43:13 | INFO | P5 | Computed rolling mean signals
+2026-03-25 20:43:13 | INFO | P5 | Flagged 0 cancellation spikes
+2026-03-25 20:43:13 | INFO | P5 | Flagged 0 delay spikes
+2026-03-25 20:43:13 | INFO | P5 | Wrote rolling monitoring file: C:\Repos\cintel-04-rolling-monitoring\artifacts\airline_delay_rolling_metrics_hennelly.csv
+2026-03-25 20:43:13 | INFO | P5 | ========================
+2026-03-25 20:43:13 | INFO | P5 | Pipeline executed successfully!
+2026-03-25 20:43:13 | INFO | P5 | ========================
+2026-03-25 20:43:13 | INFO | P5 | END main()
+2026-03-25 20:50:34 | INFO | P5 | === RUN START ===
+2026-03-25 20:50:34 | INFO | P5 | project=CINTEL
+2026-03-25 20:50:34 | INFO | P5 | repo_dir=cintel-04-rolling-monitoring
+2026-03-25 20:50:34 | INFO | P5 | python=3.14.3
+2026-03-25 20:50:34 | INFO | P5 | os=Windows 11
+2026-03-25 20:50:34 | INFO | P5 | shell=powershell
+2026-03-25 20:50:34 | INFO | P5 | cwd=.
+2026-03-25 20:50:34 | INFO | P5 | github_actions=False
+2026-03-25 20:50:34 | INFO | P5 | ========================
+2026-03-25 20:50:34 | INFO | P5 | START main()
+2026-03-25 20:50:34 | INFO | P5 | ========================
+2026-03-25 20:50:34 | INFO | P5 | ROOT_DIR = .
+2026-03-25 20:50:34 | INFO | P5 | DATA_FILE = data\T_ONTIME_REPORTING_OCT_2025.csv
+2026-03-25 20:50:34 | INFO | P5 | OUTPUT_FILE = artifacts\airline_delay_rolling_metrics_hennelly.csv
+2026-03-25 20:50:34 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-03-25 20:50:34 | INFO | P5 | Loaded 605844 flight records
+2026-03-25 20:50:34 | INFO | P5 | Aggregated into 434 daily records
+2026-03-25 20:50:34 | INFO | P5 | Computed rolling mean signals
+2026-03-25 20:50:34 | INFO | P5 | Flagged 77 cancellation spikes
+2026-03-25 20:50:34 | INFO | P5 | Flagged 87 delay spikes
+2026-03-25 20:50:34 | INFO | P5 | Wrote rolling monitoring file: C:\Repos\cintel-04-rolling-monitoring\artifacts\airline_delay_rolling_metrics_hennelly.csv
+2026-03-25 20:50:34 | INFO | P5 | ========================
+2026-03-25 20:50:34 | INFO | P5 | Pipeline executed successfully!
+2026-03-25 20:50:34 | INFO | P5 | ========================
+2026-03-25 20:50:34 | INFO | P5 | END main()
+2026-03-25 21:00:40 | INFO | P5 | === RUN START ===
+2026-03-25 21:00:40 | INFO | P5 | project=CINTEL
+2026-03-25 21:00:40 | INFO | P5 | repo_dir=cintel-04-rolling-monitoring
+2026-03-25 21:00:40 | INFO | P5 | python=3.14.3
+2026-03-25 21:00:40 | INFO | P5 | os=Windows 11
+2026-03-25 21:00:40 | INFO | P5 | shell=powershell
+2026-03-25 21:00:40 | INFO | P5 | cwd=.
+2026-03-25 21:00:40 | INFO | P5 | github_actions=False
+2026-03-25 21:00:40 | INFO | P5 | ========================
+2026-03-25 21:00:40 | INFO | P5 | START main()
+2026-03-25 21:00:40 | INFO | P5 | ========================
+2026-03-25 21:00:40 | INFO | P5 | ROOT_DIR = .
+2026-03-25 21:00:40 | INFO | P5 | DATA_FILE = data\T_ONTIME_REPORTING_OCT_2025.csv
+2026-03-25 21:00:40 | INFO | P5 | OUTPUT_FILE = artifacts\airline_delay_rolling_metrics_hennelly.csv
+2026-03-25 21:00:40 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-03-25 21:00:40 | INFO | P5 | Loaded 605844 flight records
+2026-03-25 21:00:40 | INFO | P5 | Aggregated into 434 daily records
+2026-03-25 21:00:40 | INFO | P5 | Computed rolling mean signals
+2026-03-25 21:00:40 | INFO | P5 | 
+shape: (14, 4)
+┌───────────────────┬──────────────┬─────────────────────┬────────────┐
+│ OP_UNIQUE_CARRIER ┆ delay_spikes ┆ cancellation_spikes ┆ total_days │
+│ ---               ┆ ---          ┆ ---                 ┆ ---        │
+│ str               ┆ u64          ┆ u64                 ┆ u64        │
+╞═══════════════════╪══════════════╪═════════════════════╪════════════╡
+│ AA                ┆ 8            ┆ 7                   ┆ 31         │
+│ DL                ┆ 8            ┆ 9                   ┆ 31         │
+│ UA                ┆ 8            ┆ 7                   ┆ 31         │
+│ YX                ┆ 8            ┆ 3                   ┆ 31         │
+│ B6                ┆ 7            ┆ 5                   ┆ 31         │
+│ …                 ┆ …            ┆ …                   ┆ …          │
+│ HA                ┆ 5            ┆ 7                   ┆ 31         │
+│ NK                ┆ 5            ┆ 6                   ┆ 31         │
+│ OH                ┆ 5            ┆ 5                   ┆ 31         │
+│ G4                ┆ 4            ┆ 2                   ┆ 31         │
+│ OO                ┆ 3            ┆ 6                   ┆ 31         │
+└───────────────────┴──────────────┴─────────────────────┴────────────┘
+2026-03-25 21:00:40 | INFO | P5 | Wrote rolling monitoring file: C:\Repos\cintel-04-rolling-monitoring\artifacts\airline_delay_rolling_metrics_hennelly.csv
+2026-03-25 21:00:40 | INFO | P5 | ========================
+2026-03-25 21:00:40 | INFO | P5 | Pipeline executed successfully!
+2026-03-25 21:00:40 | INFO | P5 | ========================
+2026-03-25 21:00:40 | INFO | P5 | END main()
+2026-03-25 21:02:17 | INFO | P5 | === RUN START ===
+2026-03-25 21:02:17 | INFO | P5 | project=CINTEL
+2026-03-25 21:02:17 | INFO | P5 | repo_dir=cintel-04-rolling-monitoring
+2026-03-25 21:02:17 | INFO | P5 | python=3.14.3
+2026-03-25 21:02:17 | INFO | P5 | os=Windows 11
+2026-03-25 21:02:17 | INFO | P5 | shell=powershell
+2026-03-25 21:02:17 | INFO | P5 | cwd=.
+2026-03-25 21:02:17 | INFO | P5 | github_actions=False
+2026-03-25 21:02:17 | INFO | P5 | ========================
+2026-03-25 21:02:17 | INFO | P5 | START main()
+2026-03-25 21:02:17 | INFO | P5 | ========================
+2026-03-25 21:02:17 | INFO | P5 | ROOT_DIR = .
+2026-03-25 21:02:17 | INFO | P5 | DATA_FILE = data\T_ONTIME_REPORTING_OCT_2025.csv
+2026-03-25 21:02:17 | INFO | P5 | OUTPUT_FILE = artifacts\airline_delay_rolling_metrics_hennelly.csv
+2026-03-25 21:02:17 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-03-25 21:02:18 | INFO | P5 | Loaded 605844 flight records
+2026-03-25 21:02:18 | INFO | P5 | Aggregated into 434 daily records
+2026-03-25 21:02:18 | INFO | P5 | Computed rolling mean signals
+2026-03-25 21:02:18 | INFO | P5 | 
+shape: (14, 4)
+┌───────────────────┬──────────────┬─────────────────────┬────────────┐
+│ OP_UNIQUE_CARRIER ┆ delay_spikes ┆ cancellation_spikes ┆ total_days │
+│ ---               ┆ ---          ┆ ---                 ┆ ---        │
+│ str               ┆ u64          ┆ u64                 ┆ u64        │
+╞═══════════════════╪══════════════╪═════════════════════╪════════════╡
+│ AA                ┆ 8            ┆ 7                   ┆ 31         │
+│ DL                ┆ 8            ┆ 9                   ┆ 31         │
+│ UA                ┆ 8            ┆ 7                   ┆ 31         │
+│ YX                ┆ 8            ┆ 3                   ┆ 31         │
+│ B6                ┆ 7            ┆ 5                   ┆ 31         │
+│ …                 ┆ …            ┆ …                   ┆ …          │
+│ HA                ┆ 5            ┆ 7                   ┆ 31         │
+│ NK                ┆ 5            ┆ 6                   ┆ 31         │
+│ OH                ┆ 5            ┆ 5                   ┆ 31         │
+│ G4                ┆ 4            ┆ 2                   ┆ 31         │
+│ OO                ┆ 3            ┆ 6                   ┆ 31         │
+└───────────────────┴──────────────┴─────────────────────┴────────────┘
+2026-03-25 21:02:18 | INFO | P5 | Wrote rolling monitoring file: C:\Repos\cintel-04-rolling-monitoring\artifacts\airline_delay_rolling_metrics_hennelly.csv
+2026-03-25 21:02:18 | INFO | P5 | ========================
+2026-03-25 21:02:18 | INFO | P5 | Pipeline executed successfully!
+2026-03-25 21:02:18 | INFO | P5 | ========================
+2026-03-25 21:02:18 | INFO | P5 | END main()
+2026-03-25 21:03:55 | INFO | P5 | === RUN START ===
+2026-03-25 21:03:55 | INFO | P5 | project=CINTEL
+2026-03-25 21:03:55 | INFO | P5 | repo_dir=cintel-04-rolling-monitoring
+2026-03-25 21:03:55 | INFO | P5 | python=3.14.3
+2026-03-25 21:03:55 | INFO | P5 | os=Windows 11
+2026-03-25 21:03:55 | INFO | P5 | shell=powershell
+2026-03-25 21:03:55 | INFO | P5 | cwd=.
+2026-03-25 21:03:55 | INFO | P5 | github_actions=False
+2026-03-25 21:03:55 | INFO | P5 | ========================
+2026-03-25 21:03:55 | INFO | P5 | START main()
+2026-03-25 21:03:55 | INFO | P5 | ========================
+2026-03-25 21:03:55 | INFO | P5 | ROOT_DIR = .
+2026-03-25 21:03:55 | INFO | P5 | DATA_FILE = data\T_ONTIME_REPORTING_OCT_2025.csv
+2026-03-25 21:03:55 | INFO | P5 | OUTPUT_FILE = artifacts\airline_delay_rolling_metrics_hennelly.csv
+2026-03-25 21:03:55 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-03-25 21:03:56 | INFO | P5 | Loaded 605844 flight records
+2026-03-25 21:03:56 | INFO | P5 | Aggregated into 434 daily records
+2026-03-25 21:03:56 | INFO | P5 | Computed rolling mean signals
+2026-03-25 21:03:56 | INFO | P5 | 
+shape: (14, 4)
+┌───────────────────┬──────────────┬─────────────────────┬────────────┐
+│ OP_UNIQUE_CARRIER ┆ delay_spikes ┆ cancellation_spikes ┆ total_days │
+│ ---               ┆ ---          ┆ ---                 ┆ ---        │
+│ str               ┆ u64          ┆ u64                 ┆ u64        │
+╞═══════════════════╪══════════════╪═════════════════════╪════════════╡
+│ AA                ┆ 8            ┆ 7                   ┆ 31         │
+│ DL                ┆ 8            ┆ 9                   ┆ 31         │
+│ UA                ┆ 8            ┆ 7                   ┆ 31         │
+│ YX                ┆ 8            ┆ 3                   ┆ 31         │
+│ B6                ┆ 7            ┆ 5                   ┆ 31         │
+│ …                 ┆ …            ┆ …                   ┆ …          │
+│ HA                ┆ 5            ┆ 7                   ┆ 31         │
+│ NK                ┆ 5            ┆ 6                   ┆ 31         │
+│ OH                ┆ 5            ┆ 5                   ┆ 31         │
+│ G4                ┆ 4            ┆ 2                   ┆ 31         │
+│ OO                ┆ 3            ┆ 6                   ┆ 31         │
+└───────────────────┴──────────────┴─────────────────────┴────────────┘
+2026-03-25 21:03:56 | INFO | P5 | Wrote rolling monitoring file: C:\Repos\cintel-04-rolling-monitoring\artifacts\airline_delay_rolling_metrics_hennelly.csv
+2026-03-25 21:03:56 | INFO | P5 | ========================
+2026-03-25 21:03:56 | INFO | P5 | Pipeline executed successfully!
+2026-03-25 21:03:56 | INFO | P5 | ========================
+2026-03-25 21:03:56 | INFO | P5 | END main()
+2026-03-25 21:11:35 | INFO | P5 | === RUN START ===
+2026-03-25 21:11:35 | INFO | P5 | project=CINTEL
+2026-03-25 21:11:35 | INFO | P5 | repo_dir=cintel-04-rolling-monitoring
+2026-03-25 21:11:35 | INFO | P5 | python=3.14.3
+2026-03-25 21:11:35 | INFO | P5 | os=Windows 11
+2026-03-25 21:11:35 | INFO | P5 | shell=powershell
+2026-03-25 21:11:35 | INFO | P5 | cwd=.
+2026-03-25 21:11:35 | INFO | P5 | github_actions=False
+2026-03-25 21:11:35 | INFO | P5 | ========================
+2026-03-25 21:11:35 | INFO | P5 | START main()
+2026-03-25 21:11:35 | INFO | P5 | ========================
+2026-03-25 21:11:35 | INFO | P5 | ROOT_DIR = .
+2026-03-25 21:11:35 | INFO | P5 | DATA_FILE = data\T_ONTIME_REPORTING_OCT_2025.csv
+2026-03-25 21:11:35 | INFO | P5 | OUTPUT_FILE = artifacts\airline_delay_rolling_metrics_hennelly.csv
+2026-03-25 21:11:35 | INFO | P5 | ARTIFACTS_DIR = artifacts
+2026-03-25 21:11:35 | INFO | P5 | Loaded 605844 flight records
+2026-03-25 21:11:35 | INFO | P5 | Aggregated into 434 daily records
+2026-03-25 21:11:35 | INFO | P5 | Computed rolling mean signals
+2026-03-25 21:11:35 | INFO | P5 | 
+shape: (14, 4)
+┌───────────────────┬──────────────┬─────────────────────┬────────────┐
+│ OP_UNIQUE_CARRIER ┆ delay_spikes ┆ cancellation_spikes ┆ total_days │
+│ ---               ┆ ---          ┆ ---                 ┆ ---        │
+│ str               ┆ u64          ┆ u64                 ┆ u64        │
+╞═══════════════════╪══════════════╪═════════════════════╪════════════╡
+│ AA                ┆ 8            ┆ 7                   ┆ 31         │
+│ DL                ┆ 8            ┆ 9                   ┆ 31         │
+│ UA                ┆ 8            ┆ 7                   ┆ 31         │
+│ YX                ┆ 8            ┆ 3                   ┆ 31         │
+│ B6                ┆ 7            ┆ 5                   ┆ 31         │
+│ F9                ┆ 7            ┆ 4                   ┆ 31         │
+│ WN                ┆ 7            ┆ 5                   ┆ 31         │
+│ AS                ┆ 6            ┆ 7                   ┆ 31         │
+│ MQ                ┆ 6            ┆ 4                   ┆ 31         │
+│ HA                ┆ 5            ┆ 7                   ┆ 31         │
+│ NK                ┆ 5            ┆ 6                   ┆ 31         │
+│ OH                ┆ 5            ┆ 5                   ┆ 31         │
+│ G4                ┆ 4            ┆ 2                   ┆ 31         │
+│ OO                ┆ 3            ┆ 6                   ┆ 31         │
+└───────────────────┴──────────────┴─────────────────────┴────────────┘
+2026-03-25 21:11:35 | INFO | P5 | Wrote rolling monitoring file: C:\Repos\cintel-04-rolling-monitoring\artifacts\airline_delay_rolling_metrics_hennelly.csv
+2026-03-25 21:11:35 | INFO | P5 | ========================
+2026-03-25 21:11:35 | INFO | P5 | Pipeline executed successfully!
+2026-03-25 21:11:35 | INFO | P5 | ========================
+2026-03-25 21:11:35 | INFO | P5 | END main()
