@@ -148,3 +148,45 @@ Output columns added:
   ∙	latency_rolling_std
   ∙	error_spike_flag
   ∙	latency_spike_flag
+
+### Apply Skills to Complete the Project
+
+#### Airline Delay Rolling Monitor
+
+A continuous intelligence pipeline that monitors U.S. airline
+departure delay and cancellation anomalies using rolling statistics.  Data Source: Bureau of Transportation Statistics October 2025 Airline Data
+
+#### What It Does
+
+Reads 605,844 flight records from the BTS October 2025 on-time
+reporting dataset, aggregates them by airline and day, computes
+5-day rolling means and standard deviations, and flags anomalous
+days where delays or cancellations exceed the rolling average by
+1 standard deviation.
+
+#### Results and Interpretation
+
+![Anomaly Table](docs/images/anomaly_table.png)
+
+87 total delay spikes and 77 cancellation spikes flagged across
+14 airlines in October 2025.
+
+Airlines exceeding their own rolling average by 1 standard deviation are flagged as a spike. United, Republic, Delta and American showing 8 spike days out of 31 suggests roughly 1 in 4 days had unusually high delays. This is useful for identifying carriers with inconsistent on-time performance rather than just high average delays.​​​​​​​​​​​​​​​​  However, it should be mentioned that a monthly data set is far too small to determine if an airline has an overall issue with operational efficiency.
+
+#### Setup
+
+```bash
+git clone <https://github.com/KHenn22/cintel-04-rolling-monitoring>
+cd cintel-04-rolling-monitoring
+uv venv .venv
+uv pip install -r requirements.txt
+```
+
+#### Run Script
+
+`uv run -m src.cintel.airline_delay_rolling_monitor_hennelly`
+
+#### Output and Documentation
+
+Results are saved to artifacts/airline_delay_rolling_metrics_hennelly.csv
+See docs/index.md for project documentation
